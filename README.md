@@ -7,7 +7,7 @@
 2. Crime data for NY:https://catalog.data.gov/dataset/nypd-arrests-data-historic/resource/edd46fca-a8d9-41f4-ade2-e720c1bd8314
 #### Note: Files are not all be uploaded to this repository because they are too large. They can be downloaded from the links above
 ### Background
-    Airbnb has become very popular over the past decade and is useful for people traveling for work or vacation. NYC is a busy area with       limited housing and many people are taking advantage of and extra space they have to make some money. For this project, we plan to         investigate:
+Airbnb has become very popular over the past decade and is useful for people traveling for work or vacation. NYC is a busy area with       limited housing and many people are taking advantage of and extra space they have to make some money. For this project, we plan to         investigate:
     
 1. Is there a difference in the cost, amount of bookings, and ratings for different areas? Do additional research to learn why.
 2. Do factors such as number of minimum nights, cancellation policy, instant bookable, and house rules affect the popularity of an Airbnb?
